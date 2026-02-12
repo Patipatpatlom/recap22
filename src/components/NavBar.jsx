@@ -10,6 +10,9 @@ NavBar
         <NavLink to="/" className="hover:text-rose-300">Home</NavLink>
         <NavLink to="register" className="hover:text-rose-300">Register</NavLink>
         <NavLink to="post" className="hover:text-rose-300">Post</NavLink>
+        <NavLink to="login" className="hover:text-rose-300">Login</NavLink>
+        <NavLink to="profile" className="hover:text-rose-300">Profile</NavLink>
+        <NavLink to="token-profile" className="hover:text-rose-300">Token-profile</NavLink>
         </div>
         </div>
   )
